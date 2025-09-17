@@ -24,4 +24,22 @@ GUIs (Graphical User Interfaces) vs. command line
 ## **Shortcuts**<br>
   TAB --> fills in the rest of a name<br>
   UP arrow --> repeats the previous command<br>
+
+## Command structure<br>
+- **command -o --option arguments**<br>
+  - options modify commands in some way
+  - always put options BEFORE arguments
+- **git config --list** --> **git config** is command and **--list** is option<br>
+- **git config --global user.name "Ina Martyna"** --> **git config** = command ; **--global** = option for both arguments ; **user.name** and **"Ina Martyna"** = arguments; (space between Ina Martyna that's why "in quote")<br>
+- **git commit -m "Marketing changes"** --> **git commit** = command; **-m** = one-letter option for a message<br>
+
+
+
+
+
+
+
+
+
+
   

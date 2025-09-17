@@ -2,7 +2,7 @@
 
 GUIs (Graphical User Interfaces) vs. command line
   
-## **Unix commands:**<br>
+## **Unix commands**<br>
 * **pwd** (print working directory) --> Users/ina --> shows you the path --> where you are<br>
 * **ls** (list) --> lists of all the files and folders in directory you're currently at (e.g. users/ina)<br>
 * **cd** (change directory) --> from current directory --> to new directory<br>

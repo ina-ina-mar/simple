@@ -20,6 +20,15 @@ GUIs (Graphical User Interfaces) vs. command line
     - if created (mkdir) in a wrong place and want to remove it --> e.g. created in a simple directory not in home directory or elsewhere:<br>
     - **rm -rf** "nazwa directory, które chcemy usunąć" ; rm -rf "emptydir"<br>
       mkdir emptydir<br>
+* **clear** --> clears terminal<br>
+* **mv [nazwa_pliku] [nazwa_folderu/]** --> to move file to directory (folder); use TAB for directory name search (the directory name is followed by slash); if the file you want to move is in a different place to your folder --> give the path to the folder<br>
+* **git status** --> (red) --> file untracked ; (green) --> file tracked (after git add)
+* **git add -m "add_pdf"** --> now git tracks the file
+* **git commit**<br>
+* **git fetch**<br>
+* **git push**<br>
+* **git pull**<br>
+
      
 ## **Shortcuts**<br>
   TAB --> fills in the rest of a name<br>

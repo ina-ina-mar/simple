@@ -42,6 +42,18 @@ GUIs (Graphical User Interfaces) vs. command line
 - **git config --global user.name "Ina Martyna"** --> **git config** = command ; **--global** = option for both arguments ; **user.name** and **"Ina Martyna"** = arguments; (space between Ina Martyna that's why "in quote")<br>
 - **git commit -m "Marketing changes"** --> **git commit** = command; **-m** = one-letter option for a message<br>
 
+## File Stages <br>
+- **unstaged** --> local change to a file (adding or deleting a file) (like writing in your physical notebook)<br>
+- **staged** --> marked local change as smth you want git to track --> you want to commit to save in git (like checkmarking on each page things you think you want to save)<br>
+  * **git add**<br>
+- **committed** --> committed the file --> the version is saved in git (like scanning the reviewed things from the notebook pages and storing them locally on my computer in a folder) <br>
+  * **git commit**<br>
+- **pushed** --> uploaded the file to the server so that others can access it --> in this case the server is git_hub (like sharing them with others) <br>
+  * **git push** <br>
+
+
+
+  
 
 
 
